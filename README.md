@@ -36,3 +36,23 @@ A well-designed booking system is critical for success because it directly impac
 ### Importance of Identifying Design Properties
 
 Identifying these design properties from a mockup is crucial for several reasons. It ensures consistency across the entire application, which is essential for a professional and cohesive user experience. By having a defined style guide with colors and typography, all developers and designers on the team can maintain a consistent visual language, making the application easier to build and more predictable for the user. It also saves time by providing a clear reference point, preventing guesswork and rework.
+
+# Project Roles and Responsibilities
+
+This project involves various roles, each with specific responsibilities that are critical to the project's success.
+
+* **Project Manager:** Oversees the project from start to finish. They are responsible for defining the project scope, managing timelines, coordinating the team, and ensuring all deliverables are met. They contribute to success by keeping the project on track and ensuring clear communication.
+
+* **Frontend Developers:** Focus on the user-facing part of the application. Their responsibilities include implementing the UI components, ensuring responsive design across all devices, and integrating with the backend APIs. They contribute to success by creating a visually appealing and user-friendly experience.
+
+* **Backend Developers:** Are responsible for the server-side logic and database management. They build the APIs that the frontend uses, handle data storage, and implement the core business logic for features like user authentication and bookings. They contribute to success by ensuring the application is functional, secure, and performant.
+
+* **Designers:** Create the visual mockups and user experience flows. They are responsible for maintaining a consistent design system (colors, typography, and component styles) and ensuring the user interface is intuitive and easy to navigate. They contribute to success by providing a clear blueprint for the developers to follow, leading to a polished final product.
+
+* **QA/Testers:** Focus on quality assurance. Their responsibilities include writing and executing test cases, identifying and reporting bugs, and ensuring the application meets all functional and non-functional requirements. They contribute to success by guaranteeing the final product is reliable and bug-free.
+
+* **DevOps Engineers:** Manage the project's infrastructure and deployment pipeline. They are responsible for setting up and maintaining the servers, managing the CI/CD (Continuous Integration/Continuous Deployment) pipeline, and ensuring smooth and automated deployment. They contribute to success by making the development process more efficient and reliable.
+
+* **Product Owner:** Serves as the voice of the customer. They are responsible for defining project requirements, prioritizing the features in the product backlog, and ensuring the final product aligns with user needs and business goals. They contribute to success by providing a clear vision and direction for the development team.
+
+* **Scrum Master:** Facilitates the agile development process. Their responsibilities include organizing meetings, removing blockers for the team, and ensuring the team follows Scrum practices. They contribute to success by optimizing team collaboration and efficiency.
