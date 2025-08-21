@@ -56,3 +56,13 @@ This project involves various roles, each with specific responsibilities that ar
 * **Product Owner:** Serves as the voice of the customer. They are responsible for defining project requirements, prioritizing the features in the product backlog, and ensuring the final product aligns with user needs and business goals. They contribute to success by providing a clear vision and direction for the development team.
 
 * **Scrum Master:** Facilitates the agile development process. Their responsibilities include organizing meetings, removing blockers for the team, and ensuring the team follows Scrum practices. They contribute to success by optimizing team collaboration and efficiency.
+  
+UI Component Patterns
+This section outlines the plan for reusable UI components that will be the building blocks of the application's interface. Designing components in this way ensures consistency, reusability, and easier maintenance.
+
+Planned Components:
+* Navbar: This is the navigation bar at the top of every page. It will contain essential elements such as the site's logo, a search bar for properties, and user navigation links (e.g., login, signup, user profile). Its responsive design will ensure it works well on both desktop and mobile screens.
+* Property Card: This component is crucial for the property listing view. It will display a concise summary of a single property, including an image, its basic details (price, location, and rating), and a "favorite" button. This component will be designed for reusability so that it can be used for every property listed on the page.
+* Footer: The footer appears at the bottom of every page. It will contain links to various parts of the site, company information, and social media links. Like the navbar, it will be a consistent element across the entire application, providing a unified user experience.
+
+Each of these components will be built to be independent and reusable, allowing them to be easily placed on different pages without having to rewrite the code. This modular approach is a core principle of modern web development.
