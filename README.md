@@ -57,7 +57,7 @@ This project involves various roles, each with specific responsibilities that ar
 
 * **Scrum Master:** Facilitates the agile development process. Their responsibilities include organizing meetings, removing blockers for the team, and ensuring the team follows Scrum practices. They contribute to success by optimizing team collaboration and efficiency.
   
-UI Component Patterns
+# UI Component Patterns
 This section outlines the plan for reusable UI components that will be the building blocks of the application's interface. Designing components in this way ensures consistency, reusability, and easier maintenance.
 
 Planned Components:
